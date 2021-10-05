@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/lokesh-website/static/css/main.431d90f7.chunk.css",
-    "main.js": "/lokesh-website/static/js/main.a182b489.chunk.js",
-    "main.js.map": "/lokesh-website/static/js/main.a182b489.chunk.js.map",
+    "main.js": "/lokesh-website/static/js/main.e87bd726.chunk.js",
+    "main.js.map": "/lokesh-website/static/js/main.e87bd726.chunk.js.map",
     "runtime-main.js": "/lokesh-website/static/js/runtime-main.2c1d6b34.js",
     "runtime-main.js.map": "/lokesh-website/static/js/runtime-main.2c1d6b34.js.map",
-    "static/js/2.d689cbfe.chunk.js": "/lokesh-website/static/js/2.d689cbfe.chunk.js",
-    "static/js/2.d689cbfe.chunk.js.map": "/lokesh-website/static/js/2.d689cbfe.chunk.js.map",
+    "static/js/2.429777a8.chunk.js": "/lokesh-website/static/js/2.429777a8.chunk.js",
+    "static/js/2.429777a8.chunk.js.map": "/lokesh-website/static/js/2.429777a8.chunk.js.map",
     "index.html": "/lokesh-website/index.html",
     "static/css/main.431d90f7.chunk.css.map": "/lokesh-website/static/css/main.431d90f7.chunk.css.map",
-    "static/js/2.d689cbfe.chunk.js.LICENSE.txt": "/lokesh-website/static/js/2.d689cbfe.chunk.js.LICENSE.txt",
+    "static/js/2.429777a8.chunk.js.LICENSE.txt": "/lokesh-website/static/js/2.429777a8.chunk.js.LICENSE.txt",
     "static/media/lokesh.86c9fcbd.png": "/lokesh-website/static/media/lokesh.86c9fcbd.png",
     "static/media/index.css": "/lokesh-website/static/media/site-background.c9922ea0.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.2c1d6b34.js",
-    "static/js/2.d689cbfe.chunk.js",
+    "static/js/2.429777a8.chunk.js",
     "static/css/main.431d90f7.chunk.css",
-    "static/js/main.a182b489.chunk.js"
+    "static/js/main.e87bd726.chunk.js"
   ]
 }
