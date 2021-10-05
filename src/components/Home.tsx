@@ -12,9 +12,10 @@ const StyledConatiner = styled(Grid)`
         top:1%;
         right:1%;
         list-style: none;
+        z-index:1;
     }
     .margin-bottom {
-        marginBotton:1em;
+        margin-bottom:0.5em;
     }
 `;
 const StyledWarpper = styled.div`
@@ -63,31 +64,35 @@ const Home = () => {
             </StyledWarpper>
             <Grid container justify="center">
                     <ul className="icon">
-                        <li className="marginBottom">
-                            <a href="https://github.com/lokeshmejangid/lokeshjangid">
-                            <img src="/images/github.png" height="40px" width="40px" />
+                        <li className="margin-bottom">
+                            <a href="">
+                                <img src="/lokesh-website/images/github.png" height="30px" width="30px" />
                             </a>
+                            {/* https://github.com/lokeshmejangid */}
                         </li>
-                        <li className="marginBottom">
-                            <a href="https://www.instagram.com">
-                            <img src="/images/instagram.png" height="40px" width="40px" />
+                        <li className="margin-bottom">
+                            <a href="">
+                                <img src="/lokesh-website/images/instagram.png" height="30px" width="30px" />
                             </a>
+                            {/* https://www.instagram.com */}
                         </li>
-                        <li className="marginBottom">
-                            <a href="https://linkedin.com/in/lokesh-jangid-a9b1161ab">
-                            <img src="/images/linkedin.png" height="40px" width="40px" />
+                        <li className="margin-bottom">
+                            <a href="">
+                                <img src="/lokesh-website/images/linkedin.png" height="30px" width="30px" />
                             </a>
+                            {/* https://linkedin.com/in/lokesh-jangid-a9b1161ab */}
                         </li>
-                        <li className="marginBottom">
-                            <a href="https://twitter.com/LokeshJ09575482">
-                            <img src="/images/twitter.png" height="40px" width="40px" />
+                        <li className="margin-bottom">
+                            <a href="">
+                                <img src="/lokesh-website/images/twitter.png" height="30px" width="30px" />
                             </a>
-
+                            {/* https://twitter.com/LokeshJ09575482 */}
                         </li>
-                        <li className="marginBottom">
-                            <a href="https://www.facebook.com/profile.php?id=100011437129111">
-                            <img src="/images/fb.png" height="40px" width="40px" />
+                        <li className="margin-bottom">
+                            <a href="">
+                                <img src="/lokesh-website/images/fb.png" height="30px" width="30px" />
                             </a>
+                            {/* https://www.facebook.com/profile.php?id=100011437129111 */}
                         </li>
                     </ul>
                 </Grid>

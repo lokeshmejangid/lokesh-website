@@ -29,7 +29,7 @@ const Parti = () => {
             type: "circle",
             stroke: {
               width: 1,
-              color: "blue",
+              color: "black",
             },
           },
           size: {
