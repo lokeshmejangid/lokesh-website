@@ -7,19 +7,27 @@ import backgroundImg from '../../public/images/site-background.jpg';
 import avatar from "../lokesh.png";
 
 const StyledConatiner = styled(Grid)`
-    
+    .icon {
+        position:absolute;
+        top:1%;
+        right:1%;
+        list-style: none;
+    }
+    .margin-bottom {
+        marginBotton:1em;
+    }
 `;
 const StyledWarpper = styled.div`
     position: absolute;
-    top: 34%;
+    top: 32%;
     left: 50%;
     width:100vw;
     text-align: center;
     transform: translate(-50%, 50%);
 `;
 const StyledAvtar = styled(Avatar)`
-    width:7em !important;
-    height:7em !important;
+    width:4em !important;
+    height:4em !important;
     margin:1em;
 `;
 
@@ -53,6 +61,36 @@ const Home = () => {
                     />
                 </StyledDescription>
             </StyledWarpper>
+            <Grid container justify="center">
+                    <ul className="icon">
+                        <li className="marginBottom">
+                            <a href="https://github.com/lokeshmejangid/lokeshjangid">
+                            <img src="/images/github.png" height="40px" width="40px" />
+                            </a>
+                        </li>
+                        <li className="marginBottom">
+                            <a href="https://www.instagram.com">
+                            <img src="/images/instagram.png" height="40px" width="40px" />
+                            </a>
+                        </li>
+                        <li className="marginBottom">
+                            <a href="https://linkedin.com/in/lokesh-jangid-a9b1161ab">
+                            <img src="/images/linkedin.png" height="40px" width="40px" />
+                            </a>
+                        </li>
+                        <li className="marginBottom">
+                            <a href="https://twitter.com/LokeshJ09575482">
+                            <img src="/images/twitter.png" height="40px" width="40px" />
+                            </a>
+
+                        </li>
+                        <li className="marginBottom">
+                            <a href="https://www.facebook.com/profile.php?id=100011437129111">
+                            <img src="/images/fb.png" height="40px" width="40px" />
+                            </a>
+                        </li>
+                    </ul>
+                </Grid>
         </StyledConatiner>
     )
 }
