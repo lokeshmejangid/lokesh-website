@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/lokesh-website/static/css/main.431d90f7.chunk.css",
-    "main.js": "/lokesh-website/static/js/main.e87bd726.chunk.js",
-    "main.js.map": "/lokesh-website/static/js/main.e87bd726.chunk.js.map",
+    "main.js": "/lokesh-website/static/js/main.829b6728.chunk.js",
+    "main.js.map": "/lokesh-website/static/js/main.829b6728.chunk.js.map",
     "runtime-main.js": "/lokesh-website/static/js/runtime-main.2c1d6b34.js",
     "runtime-main.js.map": "/lokesh-website/static/js/runtime-main.2c1d6b34.js.map",
     "static/js/2.429777a8.chunk.js": "/lokesh-website/static/js/2.429777a8.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.2c1d6b34.js",
     "static/js/2.429777a8.chunk.js",
     "static/css/main.431d90f7.chunk.css",
-    "static/js/main.e87bd726.chunk.js"
+    "static/js/main.829b6728.chunk.js"
   ]
 }
